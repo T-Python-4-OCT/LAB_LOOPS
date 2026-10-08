@@ -1,4 +1,4 @@
-n = input("enter a positive integer: ")
+n = input("Enter a positive integer: ")
 total = 0
 for i in range(1, int(n) + 1):
     if i % 2 == 0:
